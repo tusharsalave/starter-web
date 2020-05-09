@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work
 
-##Introduction
+## Introduction
 
 This is my first web app.
 
@@ -10,8 +10,8 @@ This is my first web app.
 
 Sample web app to use easily.
 
-##Deployment
+## Deployment
 This is a simple web project,deployment can be any web server or even local file system.
 
-##How To Contribute
+## How To Contribute
 
