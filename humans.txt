@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tushar Salave     tusharsalave995@gmail.com     @tusharsalave
 
 # THANKS
 
